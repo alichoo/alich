@@ -1,1 +1,4 @@
-echo "hello ali";
+<php 
+     
+     echo "hello ali";
+?>
